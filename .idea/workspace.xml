@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eb50596-05b1-4e0d-9d01-d505fe2e3d3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/neo4j.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Device_Movement_Intelligence_System/.idea/Device_Movement_Intelligence_System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Device_Movement_Intelligence_System/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Device_Movement_Intelligence_System/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Device_Movement_Intelligence_System/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Device_Movement_Intelligence_System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Device_Movement_Intelligence_System/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/scripts/generate_test_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/analysis_service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/analysis_service/analysis_bp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/analysis_service/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/analysis_service/init_neo4j.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/analysis_service/init_redis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/analysis_service/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/scoring_service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/scoring_service/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/scoring_service/init_neo4j.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/scoring_service/init_redis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/scoring_service/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/scoring_service/scoring_bp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/transaction_service/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/transaction_service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/transaction_service/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/transaction_service/init_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/transaction_service/neo4j_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/transaction_service/repo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/transaction_service/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hizballa_money/services/transaction_service/transaction_bp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Shalombergman"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/OmerMunk/hizballa_money.git",
+    "accountId": "7e00b698-21e8-4c80-a21f-6962c4617422"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2pTBuBxPjFzG36FguANmwOJXj63" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eb50596-05b1-4e0d-9d01-d505fe2e3d3f" name="Changes" comment="" />
+      <created>1732780404619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732780404619</updated>
+      <workItem from="1732780405700" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
